@@ -1,0 +1,1 @@
+A personal portfolio page created as a certifcation project for the freeCodeCamp' Responsive Web Design course.
